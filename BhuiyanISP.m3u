@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT32r8EN-5z5gaRaC_IzkGk0cmJnA5lOm1eOw&s" group-title="Bangla",JAMUNA
+http://30.30.30.30:8088/209/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdsCJDg8ijPW8w3UQv4amWLKxXY1Xzw6fGAA&usqp=CAU" group-title="Bangla",DBC
+http://30.30.30.30:8088/204/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUL1AKfua_foATC6f3zcjN1oyZmhFWHp1MCw&s" group-title="Bangla",SOMOY TV
+https://app.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla",Independent Tv
+http://30.30.30.30:8088/201/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla",Masranga TV
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla",ATN News
+http://30.30.30.30:8088/203/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy0n_LkV3T-XzHRkHD0KMqULQa_783ggR-r_F5fnlOdZL3V0kCLFG_FAo&s=10" group-title="Bangla",Channel i-2
+https://channel-i-tv.rockstreamer.com/chlive/121212/chunks.m3u8
+#EXTINF:-1 group-title="Bangla",Ekhusjey Tv Own Server
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8cc82be2251c92
+#EXTINF:-1 group-title="Bangla",DIPTO PLAY
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 group-title="Bangla",ATN
+http://30.30.30.30:8088/202/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla",Boisahski
+http://30.30.30.30:8088/211/tracks-a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgzIc8gB9O0vcjkRZ34PhRGOwtHW7y5ze8UA&usqp=CAU" group-title="Doccumuntary",DISCOVERY
+http://30.30.30.30:8088/801/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKPpx2-x_MKKcq29lH0Jmm9SiClXHWtXFCrw&s" group-title="Doccumuntary",National Geography
+http://30.30.30.30:8088/802/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Doccumuntary",Travel
+http://30.30.30.30:8088/130/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Indian Bangla",STAR JALSHA
+http://30.30.30.30:8088/302/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Indian Bangla",ZEE Bangla
+http://30.30.30.30:8088/301/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Indian Bangla",Jalsha Movies
+http://30.30.30.30:8088/303/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Indian Bangla",SONY ART
+http://30.30.30.30:8088/306/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Indian Bangla",ZEE Cimena
+http://30.30.30.30:8088/406/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Indian Bangla",Colors Bangla
+http://30.30.30.30:8088/304/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Indian Bangla",STAR MOVIES
+http://30.30.30.30:8088/501/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Indian Bangla",Star Gold
+http://30.30.30.30:8088/402/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Indian Bangla",Sony Entertainment
+http://30.30.30.30:8088/403/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Indian Bangla",Color Hd
+http://30.30.30.30:8088/405/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Indian Bangla",Star Plus
+http://30.30.30.30:8088/401/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Indian Bangla",Sony Pix
+http://30.30.30.30:8088/503/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Indian Bangla",9X MUSIC
+http://30.30.30.30:8088/704/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Indian Bangla",B4MUCIS
+https://cdn2.pishow.tv/live/141/master.m3u8
+#EXTINF:-1 group-title="Indian Bangla",Songit Bangla
+http://30.30.30.30:8088/702/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Indian Bangla",Zoom Music
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
+#EXTINF:-1 group-title="Sports",G TV
+http://30.30.30.30:8088/106/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports",T SPORTS
+http://30.30.30.30:8088/102/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports",STAR SPORTS 1
+http://30.30.30.30:8088/110/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports",STAR SPORTS 2
+http://30.30.30.30:8088/115/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports",Star Sports
+http://30.30.30.30:8088/123/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports",Dubai Sports
+http://30.30.30.30:8088/129/tracks-v1a1/mono.m3u8?t
+#EXTINF:-1 group-title="Sports",SPORTS 18
+http://172.17.50.112/live/fifa2022/index.m3u8
+#EXTINF:-1 group-title="Sports",Sony Sports 1
+http://30.30.30.30:8088/119/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports",Star Sports Select 1
+http://30.30.30.30:8088/123/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports",Sony Ten 5
+http://30.30.30.30:8088/120/tracks-v1a1/mono.m3u8
